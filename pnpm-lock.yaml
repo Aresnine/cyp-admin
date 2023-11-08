@@ -5,7 +5,8 @@ specifiers:
   '@rushstack/eslint-patch': ^1.3.3
   '@tsconfig/node18': ^18.2.2
   '@types/jsdom': ^21.1.3
-  '@types/node': ^18.18.5
+  '@types/node': ^18.18.9
+  '@unocss/transformer-directives': ^0.57.2
   '@vitejs/plugin-vue': ^4.4.0
   '@vitejs/plugin-vue-jsx': ^3.0.2
   '@vue/eslint-config-prettier': ^8.0.0
@@ -41,6 +42,7 @@ devDependencies:
   '@tsconfig/node18': 18.2.2
   '@types/jsdom': 21.1.5
   '@types/node': 18.18.9
+  '@unocss/transformer-directives': 0.57.2
   '@vitejs/plugin-vue': 4.4.0_vite@4.5.0+vue@3.3.8
   '@vitejs/plugin-vue-jsx': 3.0.2_vite@4.5.0+vue@3.3.8
   '@vue/eslint-config-prettier': 8.0.0_q32ozyv6ilzswc7bukaaebkhte

@@ -5,12 +5,14 @@ import HelloWorld from './components/HelloWorld.vue'
 
 <template>
   <header>
-    <h1 class="text-blue-500">Vue 3 + TypeScript + Vite</h1>
+    <h1
+      text="blue-400 50px"
+      class="bd-red"
+    >Vue 3 + TypeScript + Vite</h1>
     <el-button>Default</el-button>
     <div class="wrapper">
     </div>
   </header>
-
   <RouterView />
 </template>
 
